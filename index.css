@@ -1,0 +1,25 @@
+*
+    {
+        background-color: #69beef;
+    }
+#openingbox
+    {
+        width: 100%;       
+        text-align: center;
+        padding-top: 10px;
+    }
+.videocontainers
+    {
+        height: 500px;
+        width: 100%;
+        margin: 0 auto;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+.imbeddedvideos
+    {
+        display: block;
+    }
